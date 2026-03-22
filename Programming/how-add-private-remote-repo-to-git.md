@@ -27,3 +27,5 @@ git remote set-url origin git@github.com:YOURUSERNAME/REPO_NAME.git
 
 If you haven't then run this command
 ```
+git remote add origin git@github.com:YOURUSERNAME/REPO_NAME.git
+```
