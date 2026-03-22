@@ -1,4 +1,4 @@
-### Step 1 Generate ssh keys.
+### Step 1 Generate ssh keys. (note this needs to be done once per device)
 
 run this command in your terminal: 
 ```
